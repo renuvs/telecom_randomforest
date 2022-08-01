@@ -1,5 +1,5 @@
-streamlit
-numpy
-pickle
+streamlit==1.2.0
+numpy==1.21.4
 sklearn==0.0
-scikit-learn
+pip==21.3.1
+requests==2.26.0
