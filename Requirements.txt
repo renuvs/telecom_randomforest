@@ -1,5 +1,5 @@
 streamlit
 numpy
 pickle
-sklearn
+sklearn==0.0
 scikit-learn
