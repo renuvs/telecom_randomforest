@@ -11,7 +11,7 @@ import streamlit as st
 
 
 #loading the model
-loaded_model = pickle.load(open('C:/Users/Admin.DESKTOP-ISGPM4M/project\Project_3/final_project/tele_churn_trained_model_rf.sav','rb'))
+loaded_model = pickle.load(open('tele_churn_trained_model_rf.sav','rb'))
     
 
 def churn_prediction(input_data):
